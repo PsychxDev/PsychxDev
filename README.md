@@ -30,7 +30,7 @@ I'm a student teaching myself programming. I'm drawn to the command line, system
 
 - Improving code structure and readability
 - Learning to write better documentation
-- 
+
 ## Note
 
 This is a learning space. Code here is a record of progress, not a finished product.
